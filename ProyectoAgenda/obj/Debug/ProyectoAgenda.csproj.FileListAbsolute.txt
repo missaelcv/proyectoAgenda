@@ -1,0 +1,7 @@
+C:\Users\Misael Caceres\Desktop\ProyectoAgenda\ProyectoAgenda\bin\Debug\ProyectoAgenda.exe.config
+C:\Users\Misael Caceres\Desktop\ProyectoAgenda\ProyectoAgenda\bin\Debug\ProyectoAgenda.exe
+C:\Users\Misael Caceres\Desktop\ProyectoAgenda\ProyectoAgenda\bin\Debug\ProyectoAgenda.pdb
+C:\Users\Misael Caceres\Desktop\ProyectoAgenda\ProyectoAgenda\obj\Debug\ProyectoAgenda.csproj.AssemblyReference.cache
+C:\Users\Misael Caceres\Desktop\ProyectoAgenda\ProyectoAgenda\obj\Debug\ProyectoAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Misael Caceres\Desktop\ProyectoAgenda\ProyectoAgenda\obj\Debug\ProyectoAgenda.exe
+C:\Users\Misael Caceres\Desktop\ProyectoAgenda\ProyectoAgenda\obj\Debug\ProyectoAgenda.pdb

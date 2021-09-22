@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ProyectoAgenda
 {
-    class Registrar
+    public abstract class Registrar
     {
+
     }
 }

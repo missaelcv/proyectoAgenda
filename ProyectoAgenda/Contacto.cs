@@ -10,7 +10,7 @@ namespace ProyectoAgenda
     {
 
         #region Construtor Con Paramentros
-        public Contacto (string nombre, string apellido, int telefonoMovil, int telefonoCasa,
+        public Contacto (string nombre, string apellido, double telefonoMovil, double telefonoCasa,
             string correoElectronico, string direccion, string cuidades)
         {
             Nombre = nombre;
@@ -38,9 +38,9 @@ namespace ProyectoAgenda
 
         public string Apellido { get; set; }
 
-        public int TelefonoMovil { get; set; }
+        public double TelefonoMovil { get; set; }
 
-        public int TelefonoCasa { get; set; }
+        public double TelefonoCasa { get; set; }
 
         public string CorreoElectronico { get; set; }
 

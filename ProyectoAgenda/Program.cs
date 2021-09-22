@@ -6,10 +6,17 @@ using System.Threading.Tasks;
 
 namespace ProyectoAgenda
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+            Contacto contacto = new Contacto();
+            contacto.Nombre = "Missael";
+            contacto.Apellido = "Caceres";
+            contacto.Direccion = "Castellana";
+            contacto.CorreoElectronico = "misael@gmail.com";
+            
+
         }
     }
 }
