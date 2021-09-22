@@ -8,6 +8,32 @@ namespace ProyectoAgenda
 {
     public class Contacto
     {
+
+        #region Construtor Con Paramentros
+        public Contacto (string nombre, string apellido, int telefonoMovil, int telefonoCasa,
+            string correoElectronico, string direccion, string cuidades)
+        {
+            Nombre = nombre;
+            Apellido = apellido;
+            TelefonoCasa = telefonoCasa;
+            TelefonoMovil = telefonoMovil;
+            CorreoElectronico = correoElectronico;
+            Direccion = direccion;
+            Cuidades = cuidades;
+        }
+        #endregion
+
+
+        #region Construtor Vacio
+        public Contacto ()
+        {
+            // Contrutor Vacio
+        }
+        #endregion
+
+
+
+        #region Variables
         public string Nombre { get; set;  }
 
         public string Apellido { get; set; }
@@ -21,6 +47,8 @@ namespace ProyectoAgenda
         public string Direccion { get; set; }
         public string Cuidades { get; set; }
         
-
-    }
+         }
+        #endregion
 }
+
+
